@@ -1,4 +1,5 @@
-### Hello there!
+### Hello there! <img width="10" alt="image" src="https://github.com/ben-toker/ben-toker/assets/117331544/dc6951a0-8c97-419a-bf8b-cab456779ea2">
+
 - 🔭 I’m finishing up working on a text classification machine learning model!
 - 🌱 I’m currently learning more about artificial intelligence and how to model the brain with math (and then with code!)
 - ⚡ Fun fact: I love making coffee! I am in love with my espresso machine (a modded Gaggia Classic Pro) and cannot wait to make my next cappucino! Currently perfecting my Dirty Hojicha recipe ;)
