@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning more about artificial intelligence and how to model the brain with math (and then with code!)
 - ⚡ Fun fact: I love making coffee! I am in love with my espresso machine (a modded Gaggia Classic Pro) and cannot wait to make my next cappucino! Currently perfecting my Dirty Hojicha recipe ;)
 - 🤔 I’m looking for help with front end development; specifically in React! I am working on a portfolio to host my projects as well as my successful ventures in latte art!
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ben-toker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+- 📨 You can reach me at tenboker@gmail.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ben-toker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" class="center"/>
